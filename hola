@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Lite",
+        "price": 0,
+        "description": "Gratis para todos los usuarios",
+        "benefits": [
+            "Hazta 5 intercambios.",
+            "Filtros de búsqueda.",
+            "Personalización de notifaciones.",
+            "Anuncios moderados.",
+            "Soporte al usuario 24/7."
+        ],
+        "id": "1"
+    },
+    {
+        "name": "Plus",
+        "price": 2.99,
+        "description": "Para usuarios aficionados al cambiazo",
+        "benefits": [
+            "Hazta 15 intercambios",
+            "Libre de anuncios.",
+            "Personalización de notifaciones.",
+            "Intercambios semi-limitados.",
+            "Servicio al usuario prioritario.",
+            "Boost semanal.",
+            "Perfil destacado."
+        ],
+        "id": "2"
+    },
+    {
+        "name": "Premium",
+        "price": 3.99,
+        "description": "Para usuarios expertos al cambiazo",
+        "benefits": [
+            "Intercambios ilimitados.",
+            "Libre de anuncios.",
+            "Filtros de búsqueda.",
+            "Personalización de notifaciones.",
+            "Soporte VIP.",
+            "Boost diario.",
+            "Perfil destacado.",
+            "Servicio de garantía."
+        ],
+        "id": "3"
+    }
+]
