@@ -1,4 +1,5 @@
-{
+[
+      {
         "name": "Cuidado de animales",
         "id": "1"
       },
@@ -34,3 +35,4 @@
         "name": "Prevención y tratamiento de adicciones",
         "id": "9"
       }
+    ]
