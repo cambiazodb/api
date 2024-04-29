@@ -1,0 +1,36 @@
+{
+        "name": "Cuidado de animales",
+        "id": "1"
+      },
+      {
+        "name": "Educación",
+        "id": "2"
+      },
+      {
+        "name": "Desarrollo comunitario",
+        "id": "3"
+      },
+      {
+        "name": "Medio ambiente y conservación",
+        "id": "4"
+      },
+      {
+        "name": "Ayuda humanitaria",
+        "id": "5"
+      },
+      {
+        "name": "Cultura y arte",
+        "id": "6"
+      },
+      {
+        "name": "Tecnología y acceso a la información",
+        "id": "7"
+      },
+      {
+        "name": "Migración y refugiados",
+        "id": "8"
+      },
+      {
+        "name": "Prevención y tratamiento de adicciones",
+        "id": "9"
+      }
