@@ -1,0 +1,492 @@
+{
+"ongs": [
+      {
+        "name": "Asppa Perú",
+        "type": "Protección y cuidado de los animales",
+        "information": [
+          {
+            "about": "La asociación peruana de Protección a los Animales (ASPPA) es una organización integrada por gente de diferentes perfiles profesionales que comparten el objetivo de proteger a los animales de la crueldad o indolencia humana, promover el trato ético hacia ellos y sobretodo velar por su vida y salud. La organización trabaja mediante acciones directas, realizando esterilizaciones, rescatando animales en malas condiciones de vida, curándolos y realizando donaciones. En ASPPA estamos conscientes de la gran importancia y necesidad de que cada vez se nos unan más voces para que nuestro clamor alcance todos los rincones de esta sociedad, por lo que siempre valoraremos tu participación.",
+            "mission_vision": "Nuestra organización tiene como Misión asegurar una vida digna a todas las especies de animales, logrando el respeto por la vida y la mejoría en el bienestar de la comunidad. Nuestra visión es convertirnos en una fundación reconocida a nivel nacional e internacional, con una amplia y protagónica participación de la población y con proyección a nivel regional; como parte de una sociedad que respete y promueva la vida de animales y seres humanos y que reconozca que una vida digna requiere de una relación benéfica, equilibrada y recíproca entre todos los integrantes de la comunidad.",
+            "forms_of_support": "Inscríbete como socio.- Forma parte del activismo: rescata, hace inspecciones, denuncia, esteriliza, haz diseños, escribe en la página, educa, da entrevistas y conferencias, entre otras actividades. Aportando donaciones en efectivo o en especie: Da alguna cuota fija de dinero, dona medicamento, gasolina, equipo de rescate o para vehículos o cualquier otro recurso material que nos ayude en nuestra labor en favor de los animales. Patrocinando proyectos específicos: Financia alguno de los proyectos: clínicas veterinarias en zonas marginadas, campañas de educación y esterilización, rescates 24 horas. Convirtiéndote en informante nacional o internacional: Escribe para la página de ASPPA, dando a conocer a los visitantes lo que está ocurriendo sobre animales en su lugar de origen: campañas, eventos, leyes, casos de crueldad y respuesta de sociedad y autoridades, logros importantes en favor de los animales, etc. Se publicarán sus nombres y correos en un listado de la página, para que todos los interesados de su localidad los contacten y vayan haciendo un grupo, que al volverse estable visite o sea visitado por gente de experiencia de ASPPA y les asesore para llevar sus juntas, proyectos y actividades en contra del maltrato animal."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Programa de esterilización masiva",
+            "description": "Este proyecto tiene como objetivo realizar campañas de esterilización masiva en comunidades donde el control poblacional de animales es necesario para evitar el sufrimiento y la proliferación de animales en situación de calle."
+          },
+          {
+            "name": "Rescate y rehabilitación de animales maltratados",
+            "description": "A través de este proyecto, ASPPA rescata animales que han sido víctimas de maltrato y los rehabilita tanto física como psicológicamente para luego encontrarles un hogar amoroso."
+          },
+          {
+            "name": "Campañas de concientización y educación",
+            "description": "ASPPA realiza campañas de concientización en colegios, comunidades y medios de comunicación para educar a la población sobre el respeto y cuidado hacia los animales, así como sobre la importancia de la adopción responsable."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "BCP",
+            "cci": "002-191-174545769054-52",
+            "account": "19-174545769-0-54"
+          },
+          {
+            "name": "Interbank",
+            "cci": "003-527-013341319284-99",
+            "account": "52-73341319-2-84"
+          }
+        ],
+        "address": {
+          "street": "Av. Canada 3297",
+          "district": "San Borja",
+          "city": "Lima",
+          "country": "Peru"
+        },
+        "category": "Animales",
+        "email": "web@asppa-peru.org",
+        "contact_number": "(01) 793-1211",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Viernes: 7:00 am - 6:00 pm"
+          },
+          {
+            "schedule": "Sábado - Domingo: 8:00 am - 4:00pm"
+          }
+        ],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7nBeEbeN8EsOfrEuMDtvfFnxNmSqXbdClW-3RShYUQ&s",
+        "website": "https://asppa-peru.webnode.es/",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/asppa/?locale=es_LA"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/asppaperu/?hl=es-la"
+          }
+        ],
+        "id": "1"
+      },
+      {
+        "name": "Fundación Huella",
+        "type": "Protección y cuidado de los animales",
+        "information": [
+          {
+            "about": "La Fundación Huella es una organización comprometida con la protección y el bienestar de los animales en el Perú. Trabajamos para asegurar que cada animal tenga acceso a sus derechos fundamentales, incluyendo cuidado, alimentación y protección. Nuestro enfoque se centra en programas de rescate, rehabilitación y adopción que promuevan el respeto y el trato ético hacia los animales.",
+            "mission_vision": "Nuestra misión es brindar una vida digna a todos los animales, logrando el respeto por la vida y la mejora en su bienestar. Nos visualizamos como una fundación reconocida a nivel nacional e internacional, con una amplia participación de la población en la protección de los animales y en la promoción de sus derechos.",
+            "forms_of_support": "Puedes apoyar a la Fundación Huella de diversas formas: donando dinero, suministros veterinarios, alimentos para animales, ofreciendo tu tiempo como voluntario en los rescates y en la difusión de nuestras actividades en redes sociales, o adoptando a un animal necesitado. Tu ayuda es fundamental para seguir salvando vidas."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Programa de esterilización masiva",
+            "description": "Este proyecto tiene como objetivo realizar campañas de esterilización masiva en comunidades donde el control poblacional de animales es necesario para evitar el sufrimiento y la proliferación de animales en situación de calle."
+          },
+          {
+            "name": "Rescate y rehabilitación de animales maltratados",
+            "description": "A través de este proyecto, la Fundación Huella rescata animales que han sido víctimas de maltrato y los rehabilita tanto física como psicológicamente para luego encontrarles un hogar amoroso."
+          },
+          {
+            "name": "Campañas de concientización y educación",
+            "description": "La Fundación Huella realiza campañas de concientización en colegios, comunidades y medios de comunicación para educar a la población sobre el respeto y cuidado hacia los animales, así como sobre la importancia de la adopción responsable."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "BCP",
+            "cci": "002-194-009931755055-98",
+            "account": "94-9931755-0-55"
+          }
+        ],
+        "address": {
+          "street": "Calle Los Geranios 123",
+          "district": "San Isidro",
+          "city": "Lima",
+          "country": "Peru"
+        },
+        "category": "Animales",
+        "email": "fundacionhuellasperu@gmail.com",
+        "contact_number": "(01) 234-5678",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Viernes: 9:00 am - 4:00 pm"
+          },
+          {
+            "schedule": "Sábado: 9:00 am - 1:00 pm"
+          }
+        ],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjOY1qFtgWejGCYxbLYajQSzlgkVJaKigOLz2IhqO4EQ&s",
+        "website": "https://fundacionhuella.org/",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/fundacionhuellasperu/"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/fundacionhuellasperu/"
+          }
+        ],
+        "id": "2"
+      },
+      {
+        "name": "Asociación Civil Transparencia",
+        "type": "Lucha contra la corrupción, promoción de la transparencia y el buen gobierno",
+        "information": [
+          {
+            "about": "Transparencia es una organización sin fines de lucro que trabaja para combatir la corrupción en el Perú. Brindamos diversos programas e iniciativas para promover la transparencia, la rendición de cuentas y la participación ciudadana.",
+            "mission_vision": "Nuestra misión es promover la transparencia, la rendición de cuentas y el buen gobierno en el Perú, contribuyendo así a fortalecer las instituciones democráticas y a prevenir y combatir la corrupción. Nos visualizamos como una sociedad en la que la transparencia y la integridad sean valores fundamentales y en la que la participación ciudadana sea un pilar del desarrollo sostenible.",
+            "forms_of_support": "Puedes apoyar a la Asociación Civil Transparencia de diversas formas: participando en nuestras actividades y eventos, difundiendo nuestras iniciativas en tus redes sociales, donando para financiar nuestros proyectos y programas, colaborando como voluntario en nuestras investigaciones y acciones, y promoviendo una cultura de integridad y transparencia en tu entorno."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Observatorio Ciudadano",
+            "description": "Esta plataforma permite a los ciudadanos reportar casos de corrupción y monitorear el avance de las investigaciones."
+          },
+          {
+            "name": "Escuela de Ciudadanía",
+            "description": "Este programa brinda capacitación a ciudadanos sobre temas relacionados con la corrupción, la transparencia y la participación ciudadana."
+          },
+          {
+            "name": "Investigaciones",
+            "description": "Transparencia realiza investigaciones sobre casos de corrupción en diversos sectores del gobierno y la sociedad."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "BCP",
+            "cci": "002-191-174545769054-52",
+            "account": "19-174545769-0-54"
+          }
+        ],
+        "address": {
+          "street": "Av. Arnaldo Márquez N° 2277",
+          "district": "Jesús María",
+          "city": "Lima",
+          "country": "Perú"
+        },
+        "category": "Tecnología y acceso a la información",
+        "email": "contactenos@transparencia.org.pe",
+        "contact_number": "(511) 441-3234",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Viernes: 9:00 am - 7:00 pm"
+          },
+          {
+            "schedule": "Sábado: 9:00 am - 1:00 pm"
+          }
+        ],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOT3d42TUG0aPT4kqntLVgpsoBajQBDUmJrvMWKoIJvA&s",
+        "website": "https://www.transparencia.org.pe/home",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/transparenciaperu?_rdc=1&_rdr"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/actransparencia/"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
+            "name": "Twitter",
+            "url": "https://twitter.com/actransparencia"
+          }
+        ],
+        "id": "3"
+      },
+      {
+        "name": "CARE Perú",
+        "type": "Desarrollo comunitario, erradicación de la pobreza, empoderamiento de las mujeres, seguridad alimentaria, educación, salud, respuesta a desastres, cambio climático",
+        "information": [
+          {
+            "about": "CARE Perú es una organización humanitaria internacional que trabaja para combatir la pobreza y mejorar la vida de las comunidades más vulnerables en el Perú. Brindan diversos programas e iniciativas enfocadas en el desarrollo sostenible, la igualdad de género, la resiliencia y la adaptación al cambio climático.",
+            "mission_vision": "Nuestra misión es salvar vidas, vencer la pobreza y lograr la justicia social. Nos visualizamos en un mundo de esperanza, inclusión y justicia social, donde la pobreza haya sido superada y todas las personas vivan con dignidad y seguridad.",
+            "forms_of_support": "Puedes apoyar a CARE Perú de diversas formas: donando dinero, ofreciendo tu tiempo como voluntario en proyectos sociales, difundiendo nuestras actividades en redes sociales, participando en eventos de recaudación de fondos o brindando tu apoyo técnico y profesional en áreas específicas. Tu ayuda es fundamental para continuar con nuestro trabajo y hacer realidad nuestra misión de salvar vidas y vencer la pobreza."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Empoderamiento económico de las mujeres",
+            "description": "CARE Perú trabaja para empoderar a las mujeres a través de la capacitación en habilidades vocacionales, el acceso a financiamiento y la promoción de prácticas agrícolas sostenibles."
+          },
+          {
+            "name": "Educación de calidad",
+            "description": "CARE Perú trabaja para garantizar que todos los niños y niñas tengan acceso a una educación de calidad, especialmente en las zonas rurales y marginadas."
+          },
+          {
+            "name": "Salud materna e infantil",
+            "description": "CARE Perú trabaja para mejorar la salud materna e infantil a través de la promoción de la atención prenatal y postnatal, la educación sobre salud sexual y reproductiva y el acceso a servicios de salud de calidad."
+          },
+          {
+            "name": "Respuesta a desastres",
+            "description": "CARE Perú brinda asistencia humanitaria a las comunidades afectadas por desastres naturales, como terremotos, inundaciones y sequías."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "BCP",
+            "cci": "002-198-008871644362-74",
+            "account": "82-8176443-2-33"
+          },
+          {
+            "name": "Interbank",
+            "cci": "003-527-013341319284-99",
+            "account": "52-73341319-2-84"
+          }
+        ],
+        "address": {
+          "street": "Calle Amador Merino Reyna 267, piso 9, oficina 901",
+          "district": "San Isidro",
+          "city": "Lima",
+          "country": "Peru"
+        },
+        "category": "Desarrollo comunitario",
+        "email": "fundacionhuellasperu@gmail.com",
+        "contact_number": "(01) 6409393",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Jueves: 9:00 am - 5:30 pm"
+          },
+          {
+            "schedule": "Viernes: 9:00 am - 2:30 pm"
+          }
+        ],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutzxdr29B5g57AQ3cLW3cG8uAHXFkovEBfHLSj9c7qg&s",
+        "website": "https://care.org.pe/",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/CAREenPeru/"
+          },
+          {
+            "icon": "https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/18/twitter_b.png",
+            "name": "Twitter",
+            "url": "https://twitter.com/CAREenPeru"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/careenperu/"
+          }
+        ],
+        "id": "4"
+      },
+      {
+        "name": "Plan International Perú",
+        "type": "Desarrollo infantil, defensa de los derechos del niño",
+        "information": [
+          {
+            "about": "Plan International Perú es una organización sin fines de lucro que trabaja para mejorar las vidas de los niños y niñas en el Perú. Brindamos programas en áreas como educación, salud, protección de los derechos del niño y participación ciudadana.",
+            "mission_vision": "Nuestra misión es promover los derechos de la infancia y lograr la igualdad para las niñas en el Perú. Nos esforzamos por construir un mundo justo que promueva el bienestar y el desarrollo de todos los niños y niñas. Nuestra visión es la de un mundo en el que todos los niños y niñas tengan acceso a una vida digna, con oportunidades iguales para su desarrollo y crecimiento.",
+            "forms_of_support": "Puedes apoyar a Plan International Perú mediante donaciones, voluntariado en nuestros programas, promoviendo la sensibilización sobre los derechos del niño en tu comunidad y participando en nuestras campañas de incidencia para influir en políticas que beneficien a la infancia."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Formando emprendedores del mañana",
+            "description": "Formando emprendedores del Mañana, proyecto desarrollado con el financiamiento de Scotiabank, que busca generar y fortalecer las capacidades de educación financiera, emprendedora y previsional; promoviendo el espíritu del ahorro e implementación de emprendimientos de niños, niñas y adolescentes desde la etapa escolar."
+          },
+          {
+            "name": "Prevención del embarazo adolescente",
+            "description": "El proyecto articulador Prevención del Embarazo Adolescente se centra en abordar problemas y limitaciones que hacen que la prevalencia de embarazo en niñas y adolescentes mujeres de zonas rurales y urbano marginales del Perú se incremente, limitando sus oportunidades de desarrollo personal y profesional e impactando negativamente en su salud física y mental."
+          },
+          {
+            "name": "Cambiando esquemas: Aprendiendo mecánica automotriz, decido, lidero y prospero",
+            "description": "Cambiando Esquemas buscó fortalecer la autonomía económica de las y los jóvenes, principalmente mujeres, para contribuir a su empoderamiento económico y social. A través de becas, han logrado concluir la formación técnica en la carrera de mecánica automotriz, lo cual les está permitiendo acceder a un trabajo decente con igualdad de género. Además, se han fortalecido sus habilidades para la vida, prevención de la violencia, educación financiera, entre otros ejes clave para su desarrollo."
+          },
+          {
+            "name": "Emplea-T Perú",
+            "description": "El proyecto Emplea-T Perú busca contribuir a que las y los jóvenes accedan a un trabajo decente con igualdad de género. Para ello, en alianza con el centro de servicios CAPLAB, implementa acciones para fortalecer sus habilidades técnicas y para la vida que les permitan acceder a un empleo. Además, articula con socios y aliados para incidir en la implementación de un modelo inclusivo y transformador de género que promueva el trabajo decente en Perú."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "Scotiabank",
+            "cci": "009-170-000007049889-24",
+            "account": "000-7049889"
+          },
+          {
+            "name": "BCP",
+            "cci": "002-191-008421382063-56",
+            "account": "191-8421382-0-63"
+          }
+        ],
+        "address": {
+          "street": "Av. Juan de Arona, N° 755, Piso 9,",
+          "district": "San Isidro",
+          "city": "Lima",
+          "country": "Perú"
+        },
+        "category": "Educación",
+        "email": "informes.peru@plan-international.org",
+        "contact_number": "(01) 232-1572.",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Viernes: 8:00 am - 5:00 pm"
+          }
+        ],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZtMxFp6CfqIMyOiG16LQTaPUeEr4emuiO6Ft0CN-lw&s",
+        "website": "https://www.planinternational.org.pe/",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/PlanPeru/"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/plan_peru/"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
+            "name": "Twitter",
+            "url": "https://twitter.com/planperu"
+          }
+        ],
+        "id": "5"
+      },
+      {
+        "name": "Asociación Madre Coraje",
+        "type": "Defensa de los derechos de las mujeres, promoción de la igualdad de género, lucha contra la violencia contra las mujeres",
+        "information": [
+          {
+            "about": "Madre Coraje es una ONG peruana que trabaja para defender los derechos de las mujeres y promover la igualdad de género en el Perú. Brindan diversos programas e iniciativas enfocados en la prevención y atención de la violencia contra las mujeres, el empoderamiento económico de las mujeres y la participación política de las mujeres.",
+            "mission_vision": "Cooperamos en el desarrollo de las comunidades empobrecidas con ayuda humanitaria y proyectos de desarrollo sostenible, con voluntarios y socios comprometidos con la igualdad, la lucha contra la injusticia y el respeto al medioambiente, educando y sensibilizando a nuestro entorno más cercano. Nuestro ideal es el AMOR a través de nuestros principios: Solidaridad, Igualdad y Gratuidad. Esperamos que, en el ejercicio de nuestros principios, estos se conviertan, como fundamento del AMOR, en un movimiento de pensamiento en nuestra sociedad como la mejor fuerza para transformar las injustas desigualdades sociales de nuestro mundo. Y en el ejercicio de nuestros trabajos, Madre Coraje llegue a constituirse en un referente por su eficiencia, transparencia y sostenibilidad.",
+            "forms_of_support": "Puedes apoyar a Madre Coraje de diversas formas: participando en sus programas y actividades, difundiendo su trabajo, colaborando como voluntario o realizando donaciones. Tu contribución es fundamental para fortalecer la lucha contra la corrupción y promover la transparencia en el país."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Programa Casa de la Mujer",
+            "description": "Este programa brinda atención integral a mujeres víctimas de violencia, incluyendo apoyo psicológico, legal y social."
+          },
+          {
+            "name": "Programa Empoderamiento Económico",
+            "description": "Este programa brinda capacitación a mujeres en habilidades vocacionales y les ayuda a iniciar sus propios negocios."
+          },
+          {
+            "name": "Programa Participación Política",
+            "description": "Este programa promueve la participación de las mujeres en la política a través de la capacitación y el liderazgo."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "BCP",
+            "cci": "002-190-156787412345-67",
+            "account": "19-156787412-0-78"
+          }
+        ],
+        "address": {
+          "street": "Calle José Manuel Ubalde No.265. Dpto 2C. Urb. Los Precursores",
+          "district": "Santiago de Surco",
+          "city": "Lima",
+          "country": "Perú"
+        },
+        "category": "Ayuda humanitaria",
+        "email": "contactenos@transparencia.org.pe",
+        "contact_number": "(01) 557-8156",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Viernes: 9:00 am - 7:00 pm"
+          },
+          {
+            "schedule": "Sábado: 9:00 am - 1:00 pm"
+          }
+        ],
+        "logo": "https://wahinmakinaciones.com/site/vapts/wp-content/uploads/2015/10/logo-madre-coraje-cuadrado.jpg",
+        "website": "http://www.madrecoraje.org/",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "http://www.facebook.com/pages/Asociaci%C3%B3n-Madre-Coraje/145079115519172"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
+            "name": "Twitter",
+            "url": "http://twitter.com/#!/MCorajeONGD"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png",
+            "name": "Instagram",
+            "url": "https://www.instagram.com/madrecorajeongd/"
+          }
+        ],
+        "id": "6"
+      },
+      {
+        "name": "WCS Perú",
+        "type": "Conservación de la vida silvestre y el medio ambiente",
+        "information": [
+          {
+            "about": "Wildlife Conservation Society (WCS) fue fundada en 1895 como la Sociedad Zoológica de Nueva York, fue la primera organización no gubernamental zoológica que específicamente se propuso 'salvar la vida silvestre'. Si bien nuestros objetivos se han extendido para incluir diversos objetivos de conservación, la vida silvestre siempre será el pilar fundamental de las fortalezas y objetivos de nuestra institución. Trabajamos para implementar planes de conservación de la vida silvestre y acciones basadas en una sólida investigación científica.",
+            "mission_vision": "La misión de la Wildlife Conservation Society (WCS) es salvar la vida silvestre y los hábitats en todo el mundo a través de la ciencia, la acción de conservación, la educación y al inspirar a las personas a valorar la naturaleza. WCS visualiza un mundo donde la vida silvestre prospera en tierras y mares saludables, valorados por sociedades que abrazan y se benefician de la diversidad y la integridad de la vida en la tierra.",
+            "forms_of_support": "Las formas de apoyo a Wildlife Conservation Society (WCS) incluyen donaciones financieras, voluntariado en proyectos de conservación, difusión de su trabajo en redes sociales y eventos comunitarios, y participación en programas de concienciación y educación ambiental. Cada forma de apoyo contribuye significativamente a la misión de WCS de salvar la vida silvestre y proteger los hábitats naturales en todo el mundo."
+          }
+        ],
+        "projects": [
+          {
+            "name": "Amazon Waters",
+            "description": "La iniciativa Amazon Waters tiene como objetivo proteger el sistema de cabeceras más grande de la Amazonía occidental, que es la base de la pesca que alimenta a la mayoría de la población local. WCS trabaja para contrarrestar los efectos de propuestas de proyectos de infraestructura que podrían afectar la dinámica natural, biodiversidad y servicios ambientales de las aguas del Amazonas en Perú."
+          },
+          {
+            "name": "Salud de la vida silvestre",
+            "description": "WCS se dedica a la salud de la vida silvestre desde 1902, con un enfoque en comprender las interfaces donde convergen la vida silvestre, los animales domésticos y las poblaciones humanas. En Perú, el Programa de Salud de la Vida Silvestre y Política lidera el trabajo para monitorear y prevenir enfermedades zoonóticas, promoviendo la colaboración con socios estratégicos para desarrollar estrategias de conservación y políticas de manejo sostenible."
+          },
+          {
+            "name": "Gestión de áreas protegidas",
+            "description": "WCS promueve la gestión adaptativa y el uso sostenible de los recursos naturales como herramientas efectivas para la conservación en áreas protegidas. Trabajamos en colaboración con las comunidades locales y el estado para apoyar la gestión participativa y la toma de decisiones informadas para la conservación de la biodiversidad en el Perú."
+          }
+        ],
+        "account_number": [
+          {
+            "name": "Interbank",
+            "cci": "003-527-013341319284-99",
+            "account": "527-3341319284"
+          }
+        ],
+        "address": {
+          "street": "Avenida Roosevelt 6360",
+          "district": "Miraflores",
+          "city": "Lima",
+          "country": "Perú"
+        },
+        "category": "Medio ambiente y conservación",
+        "email": "wcsperu@wcs.org",
+        "contact_number": "+51 1 446 4947",
+        "attention_schedule": [
+          {
+            "schedule": "Lunes - Viernes: 9:00 am - 3:00 pm"
+          },
+          {
+            "schedule": "Sábado: 9:00 am - 1:00 pm"
+          }
+        ],
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhNMm4fwzhWmyM61iySbTWg4IvVjEjh8EQERat1E7oQ&s",
+        "website": "https://peru.wcs.org/en-us",
+        "social_networks": [
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png",
+            "name": "Facebook",
+            "url": "https://www.facebook.com/WCSPeru?fref=ts"
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
+            "name": "Twitter",
+            "url": "https://twitter.com/WCS_Peru"
+          }
+        ],
+        "id": "7"
+      }
+    ]
+  }
